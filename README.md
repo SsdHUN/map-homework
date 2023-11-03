@@ -1,10 +1,10 @@
 # Map Component
 
-A React komponens, amely egy térképet jelenít meg a Mapbox platform segítségével és lehetővé teszi a helyek közötti irányok megjelenítését.
+A React component that displays a map using the Mapbox platform and allows for the visualization of directions between locations.
 
-## Telepítés
+## Installation
 
-1. A `mapbox-gl` és a szükséges csomagok telepítéséhez futassa a következő parancsokat a projektgyökérben:
+1. To install the necessary packages including mapbox-gl, run the following commands in the project root:
 
    ```
    npm install react react-dom mapbox-gl
