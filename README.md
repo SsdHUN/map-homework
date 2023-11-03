@@ -4,7 +4,7 @@ A React component that displays a map using the Mapbox platform and allows for t
 
 ## Installation
 
-1. To install the necessary packages including mapbox-gl, run the following commands in the project root:
+1. To install the necessary packages including mapbox-gl, run the following commands in the project:
 
    ```
    npm install react react-dom mapbox-gl
